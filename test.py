@@ -1,1 +1,8 @@
-print ( "Hello Liad and Shira project")
+
+
+
+
+
+
+name = "Shaked"
+print(name)
