@@ -1,8 +1,0 @@
-
-
-
-
-
-
-name = "Shaked"
-print(name)
