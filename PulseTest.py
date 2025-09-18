@@ -26,5 +26,3 @@ while True:
         start_time = time.ticks_ms()
 
     time.sleep_ms(10)
-
-    print ("checked out liad_f1 branch")
